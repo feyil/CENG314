@@ -1,0 +1,60 @@
+mul_O0 optimized version runned
+  1. Execution Result: 137.661567 sn
+  2. Execution Result: 135.956028 sn
+  3. Execution Result: 135.783774 sn
+  4. Execution Result: 135.283733 sn
+  5. Execution Result: 135.662276 sn
+  6. Execution Result: 135.561014 sn
+  7. Execution Result: 137.815896 sn
+  8. Execution Result: 141.385960 sn
+  9. Execution Result: 136.914113 sn
+  10. Execution Result: 136.583253 sn
+mul_O0 average result calculated: 136.86076 sn
+mul_O1 optimized version runned
+  1. Execution Result: 46.433296 sn
+  2. Execution Result: 45.995036 sn
+  3. Execution Result: 46.507582 sn
+  4. Execution Result: 46.330703 sn
+  5. Execution Result: 46.558402 sn
+  6. Execution Result: 46.352760 sn
+  7. Execution Result: 46.684218 sn
+  8. Execution Result: 45.897756 sn
+  9. Execution Result: 46.448525 sn
+  10. Execution Result: 46.092439 sn
+mul_O1 average result calculated: 46.33007 sn
+mul_O2 optimized version runned
+  1. Execution Result: 34.677757 sn
+  2. Execution Result: 35.155461 sn
+  3. Execution Result: 34.660324 sn
+  4. Execution Result: 35.288456 sn
+  5. Execution Result: 35.357663 sn
+  6. Execution Result: 34.682247 sn
+  7. Execution Result: 35.171479 sn
+  8. Execution Result: 34.984691 sn
+  9. Execution Result: 35.092511 sn
+  10. Execution Result: 35.256844 sn
+mul_O2 average result calculated: 35.03274 sn
+mul_O3 optimized version runned
+  1. Execution Result: 35.420919 sn
+  2. Execution Result: 34.901613 sn
+  3. Execution Result: 34.787114 sn
+  4. Execution Result: 35.446566 sn
+  5. Execution Result: 35.189060 sn
+  6. Execution Result: 35.169734 sn
+  7. Execution Result: 35.533419 sn
+  8. Execution Result: 34.940910 sn
+  9. Execution Result: 35.056438 sn
+  10. Execution Result: 35.230416 sn
+mul_O3 average result calculated: 35.16761 sn
+mul_Ofast optimized version runned
+  1. Execution Result: 35.332465 sn
+  2. Execution Result: 35.023708 sn
+  3. Execution Result: 35.290245 sn
+  4. Execution Result: 35.474296 sn
+  5. Execution Result: 35.291985 sn
+  6. Execution Result: 35.150424 sn
+  7. Execution Result: 34.906848 sn
+  8. Execution Result: 34.431469 sn
+  9. Execution Result: 33.862447 sn
+  10. Execution Result: 33.814969 sn
+mul_Ofast average result calculated: 34.85788 sn

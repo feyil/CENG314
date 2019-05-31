@@ -1,0 +1,96 @@
+mul optimized version runned
+  1. Execution Result: 134.675899 sn
+  2. Execution Result: 135.568871 sn
+  3. Execution Result: 134.915726 sn
+  4. Execution Result: 135.812733 sn
+  5. Execution Result: 136.129547 sn
+  6. Execution Result: 137.368226 sn
+  7. Execution Result: 136.715167 sn
+  8. Execution Result: 140.131359 sn
+  9. Execution Result: 139.462832 sn
+  10. Execution Result: 139.392027 sn
+mul average result calculated: 137.01723 sn
+mul_O3 optimized version runned
+  1. Execution Result: 34.928854 sn
+  2. Execution Result: 35.153241 sn
+  3. Execution Result: 34.594907 sn
+  4. Execution Result: 35.288350 sn
+  5. Execution Result: 35.019416 sn
+  6. Execution Result: 35.269149 sn
+  7. Execution Result: 34.731252 sn
+  8. Execution Result: 34.683352 sn
+  9. Execution Result: 35.192535 sn
+  10. Execution Result: 35.277848 sn
+mul_O3 average result calculated: 35.01389 sn
+mul_no_fc optimized version runned
+  1. Execution Result: 114.515159 sn
+  2. Execution Result: 114.383144 sn
+  3. Execution Result: 115.876501 sn
+  4. Execution Result: 115.875993 sn
+  5. Execution Result: 114.447317 sn
+  6. Execution Result: 114.529330 sn
+  7. Execution Result: 113.481940 sn
+  8. Execution Result: 115.939012 sn
+  9. Execution Result: 115.659067 sn
+  10. Execution Result: 114.814220 sn
+mul_no_fc average result calculated: 114.95216 sn
+mul_no_fc_O3 optimized version runned
+  1. Execution Result: 35.110848 sn
+  2. Execution Result: 34.895710 sn
+  3. Execution Result: 35.166604 sn
+  4. Execution Result: 35.411314 sn
+  5. Execution Result: 34.916248 sn
+  6. Execution Result: 34.921417 sn
+  7. Execution Result: 34.704528 sn
+  8. Execution Result: 35.050140 sn
+  9. Execution Result: 35.099824 sn
+  10. Execution Result: 35.007683 sn
+mul_no_fc_O3 average result calculated: 35.02843 sn
+mul_no_fc_temp optimized version runned
+  1. Execution Result: 84.714743 sn
+  2. Execution Result: 84.451011 sn
+  3. Execution Result: 84.610243 sn
+  4. Execution Result: 84.953790 sn
+  5. Execution Result: 84.682456 sn
+  6. Execution Result: 84.867595 sn
+  7. Execution Result: 85.029427 sn
+  8. Execution Result: 84.901605 sn
+  9. Execution Result: 84.867228 sn
+  10. Execution Result: 85.074013 sn
+mul_no_fc_temp average result calculated: 84.81521 sn
+mul_no_fc_temp_O3 optimized version runned
+  1. Execution Result: 32.543838 sn
+  2. Execution Result: 32.283923 sn
+  3. Execution Result: 31.852781 sn
+  4. Execution Result: 31.639943 sn
+  5. Execution Result: 31.893014 sn
+  6. Execution Result: 31.833950 sn
+  7. Execution Result: 31.544508 sn
+  8. Execution Result: 31.873505 sn
+  9. Execution Result: 31.726395 sn
+  10. Execution Result: 31.764975 sn
+mul_no_fc_temp_O3 average result calculated: 31.89568 sn
+mul_no_fc_temp_unrolled optimized version runned
+  1. Execution Result: 23.873555 sn
+  2. Execution Result: 23.502911 sn
+  3. Execution Result: 23.822915 sn
+  4. Execution Result: 23.862829 sn
+  5. Execution Result: 23.728250 sn
+  6. Execution Result: 29.301838 sn
+  7. Execution Result: 23.781805 sn
+  8. Execution Result: 23.857080 sn
+  9. Execution Result: 29.041508 sn
+  10. Execution Result: 23.765653 sn
+mul_no_fc_temp_unrolled average result calculated: 24.85383 sn
+mul_no_fc_temp_unrolled_O3 optimized version runned
+  1. Execution Result: 7.688891 sn
+  2. Execution Result: 7.717029 sn
+  3. Execution Result: 7.712978 sn
+  4. Execution Result: 7.696115 sn
+  5. Execution Result: 7.734782 sn
+  6. Execution Result: 7.734431 sn
+  7. Execution Result: 7.726640 sn
+  8. Execution Result: 7.751327 sn
+  9. Execution Result: 7.725543 sn
+  10. Execution Result: 7.658746 sn
+mul_no_fc_temp_unrolled_O3 average result calculated: 7.71464 sn
